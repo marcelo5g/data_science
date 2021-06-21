@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-marcelo5g-red.svg)](https://www.linkedin.com/in/marcelo5g/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/marcelo5g/data_science/issues)
+[![author](https://img.shields.io/badge/author-marcelo5g-red.svg)](https://www.linkedin.com/in/marcelo5g/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/marcelo5g/data_science/blob/main/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/marcelo5g/data_science/issues)
 
 <p align="center">
   <img src="./img/banner.png" >
@@ -13,7 +13,7 @@
 ## Projetos:
 Veja os projetos publicados:
 
-* **Análise dos Dados do Airbnb para Los Angeles:** 
+* **Análise dos Dados do Airbnb para Los Angeles:** https://bit.ly/3gQxiix
 
 
 ## Sobre mim:
